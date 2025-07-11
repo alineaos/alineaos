@@ -1,14 +1,14 @@
-## 👋 Olá, me chamo Aline! 
+<h1 align="center"> 👋 Olá, me chamo Aline!  </h1>
 
-💻 Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
+📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
 
-📚 Atualmente estou aprendendo __desenvolvimento Back-end__ com __Java__.
+💻 Atualmente estou aprendendo __desenvolvimento Back-end__ com __Java__.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineaos/)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👩‍💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -31,7 +31,7 @@
 <br/>
 <br/>
   
-### 📈 Estatisticas
+### 📊 Estatisticas
 
   <img 
     align="left" 
