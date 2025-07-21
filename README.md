@@ -28,6 +28,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="50px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
 <br/>
 <br/>
 
@@ -40,6 +49,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alineaos&theme=dracula&show_icons=true&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true" 
   />
+  
           
