@@ -35,12 +35,6 @@
   
 ### 📊 Estatisticas
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true" 
-  />
+  [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
   
           
