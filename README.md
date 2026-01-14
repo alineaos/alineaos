@@ -1,40 +1,32 @@
 <h1 align="center"> 👋 Olá, me chamo Aline!  </h1>
 
-📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
+📚 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
 
-💻 Atualmente estou aprendendo __desenvolvimento Back-end__ com __Java__.
+:seedling: Futura __desenvolvedora Backend__ com __Java__.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineaos/)
+💻 Atualmente estou aprendendo sobre banco de dados com SQL
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alineaos">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+  </a>
+</p>
+          
 ---
 
 ### 👩‍💻 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git"/>    
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<br/>
-<br/>
+###
 
 ---
   
-### 📊 Estatisticas
+### 📊 Estatísticas
 
   [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true&layout=compact)
           
