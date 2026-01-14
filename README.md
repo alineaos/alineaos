@@ -2,7 +2,7 @@
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
 
-:seedling: Futura __desenvolvedora Backend__ com __Java__.
+:seedling: Em busca da minha primeira oportunidade de estágio como __desenvolvedora Backend__ com __Java__.
 
 💻 Atualmente estou aprendendo sobre banco de dados com SQL
 
@@ -17,7 +17,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git"/>    
 </div>
 
-###
+---
+
+### :open_file_folder: Portfolio
+
+[Java - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-pets)
 
 ---
   
