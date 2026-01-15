@@ -21,7 +21,7 @@
 
 ### :open_file_folder: Portfolio
 
-[Java - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-pets)
+[Java - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-animais)
 
 ---
   
