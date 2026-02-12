@@ -13,15 +13,20 @@
 ### 👩‍💻 Linguagens e Tecnologias
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" alt="Docker" title="Docker"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>    
+          
 </div>
 
 ---
 
-### :open_file_folder: Portfolio
+### :open_file_folder: Portfólio
 
 [Java - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-animais)
+
+[Java, MySQL e Docker - Lista de Tarefas](https://github.com/alineaos/lista-tarefas)
 
 ---
   
