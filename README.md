@@ -4,7 +4,7 @@
 
 :seedling: Em busca da minha primeira oportunidade de estágio como __desenvolvedora Backend__ com __Java__.
 
-💻 Atualmente estou aprendendo sobre banco de dados com SQL
+💻 Atualmente estou aprendendo sobre Spring Boot.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineaos/)
           
