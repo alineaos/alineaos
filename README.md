@@ -13,12 +13,11 @@
 ### 👩‍💻 Linguagens e Tecnologias
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Boot" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" alt="Docker" title="Docker"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>    
-          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>    
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Boot" title="Spring Boot"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" alt="Docker" title="Docker"/>  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>       
 </div>
 
 ---
@@ -32,7 +31,12 @@
 ---
   
 ### 📊 Estatísticas
+    
+<div align="center">
+          <img src ="https://github-readme-stats-fast.vercel.app/api?username=alineaos&show_icons=true&theme=dracula" alt="GitHub Stats" title="Aline's GitHub Stats">
+          <img src ="https://streak-stats.demolab.com/?user=alineaos&mode=daily&theme=dracula" alt="GitHub Streak Stats" title="Aline's GitHub Streak Stats">
+</div>
 
-  [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alineaos&show_icons=true&theme=dracula&include_all_commits=true&layout=compact)
-          
+<div align="center">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alineaos&layout=compact&theme=dracula&card_width=500" alt="Most Used Languages" title="Most Used Languages">
+</div>
