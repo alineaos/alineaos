@@ -17,12 +17,15 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring Boot" title="Spring Boot"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50" alt="Docker" title="Docker"/>  
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="50" alt="Postman" title="Postman"/>  
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>       
 </div>
 
 ---
 
 ### :open_file_folder: Portfólio
+
+[**Java | Spring Boot | MySQL | Docker** - Gerenciador de Bibliotecas](https://github.com/alineaos/gerenciador-de-bibliotecas) (em desenvolvimento)
 
 [**Java | Spring Boot | MySQL | Docker** - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-animais)
 
