@@ -25,7 +25,7 @@
 
 ### :open_file_folder: Portfólio
 
-[**Java | Spring Boot | MySQL | Docker** - Gerenciador de Bibliotecas](https://github.com/alineaos/gerenciador-de-bibliotecas) (em desenvolvimento)
+[**Java | Spring Boot | MySQL | Docker** - Gerenciador de Bibliotecas](https://github.com/alineaos/gerenciador-de-bibliotecas)
 
 [**Java | Spring Boot | MySQL | Docker** - Sistema de Cadastro de Animais](https://github.com/alineaos/sistema-cadastro-animais)
 
