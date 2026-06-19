@@ -2,9 +2,11 @@
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
 
-:seedling: Em busca da minha primeira oportunidade de estágio como __desenvolvedora Backend__ com __Java__.
+🧡 Estagiária de Tecnologia na __Rede | Itaú__.
 
-💻 Atualmente estou aprendendo sobre Spring Boot.
+💻 Focada no desenvolvimento Backend com o ecossistema Java (Spring Boot, MySQL, Docker).
+
+:seedling: Atualmente estou aprendendo sobre Python e AWS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineaos/)
           
