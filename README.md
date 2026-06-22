@@ -4,7 +4,7 @@
 
 🧡 Estagiária de Tecnologia na __Rede | Itaú__.
 
-💻 Focada no desenvolvimento Backend com o ecossistema Java (Spring Boot, MySQL, Docker).
+💻 Conhecimento em desenvolvimento backend com Java e Spring Boot.
 
 :seedling: Atualmente estou aprendendo sobre Python e AWS.
 
