@@ -39,6 +39,5 @@
     
 <div align="center">
           <img src ="https://github-readme-stats-fast.vercel.app/api?username=alineaos&show_icons=true&theme=dracula&card_width=500" alt="GitHub Stats" title="Aline's GitHub Stats">
-          <img src ="https://streak-stats.demolab.com/?user=alineaos&mode=daily&theme=dracula&card_width=500" alt="GitHub Streak Stats" title="Aline's GitHub Streak Stats">
           <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alineaos&layout=compact&theme=dracula&card_width=500" alt="Most Used Languages" title="Most Used Languages">
 </div>
